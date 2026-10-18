@@ -29,4 +29,13 @@ Aplikasi CRUD sederhana untuk mempelajari pola Model-View-Controller pada PHP Na
 - Menghapus data mahasiswa
 
 ## Histori Git
-Gunakan `git log --oneline --graph --decorate` untuk melihat tahapan pengembangan.
+### git log --oneline --graph --decorate
+PS D:\laragon\www\mvc-native> git log --oneline --graph --decorate
+* d7eef3b (HEAD -> main, origin/main) docs: add installation and MVC documentation
+* b4b54d5 feat: add complete CRUD routing
+* 0810e34 feat: add complete student CRUD views
+* 550d04b feat: add complete student CRUD controller
+* 233aa27 feat: add complete student CRUD model
+* f686b5a feat: add PDO database connection
+* ff030b7 feat: add student database schema and seed data
+* 6b370ef chore: initialize mvc php native project
